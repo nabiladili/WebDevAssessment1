@@ -1,0 +1,67 @@
+*{
+	font-family: Arial;}
+#homePageIntro {
+  text-align: center; color: #EA4D54; font-weight: bold; font-size: 25px}
+
+h2 {
+  text-align: center; background-color: #EA4D54; color: #FFFFFF;}
+
+footer {
+  background-color: #EA4D54; color: #FFFFFF;}
+
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\2022";
+  color: #EA4D54;
+  display: inline-block;
+  width: 1.5em;
+  margin-left: -1.5em;
+}
+
+#Bahrain {
+  text-align: center;
+  color: #FFFFFF;
+  padding: 20;}
+#headerMain {
+  background-color: #EA4D54;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;}
+table {
+  font-weight: bold;
+  font-size: 20;
+  color: #FFFFFF;
+  padding: 20;
+  border-collapse: separate;
+  border-spacing: 20px;}
+td {
+  padding: 10px;}
+.center1 {
+  margin-left: auto;
+  margin-right: auto;}
+#description {
+  color: #EA4D54;
+  font-weight: bold;
+  text-align: center;
+  font-size: 12px;
+  padding: 20px}
+#form {
+  color: #EA4D54;
+  font-weight: bold;
+  font-size: 12px;
+  padding: 15px;}
+p {
+  padding: 15px;}
+#submit {
+  text-align: center;}
+input {
+  padding: 6px 12px 6px 12px;
+  border: 1px solid #EA4D54;
+  color: #EA4D54;
+  font-weight: bold;}
